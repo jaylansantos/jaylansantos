@@ -1,1 +1,4 @@
 # Jaylan Santos
+
+- PHP
+- Mysql
